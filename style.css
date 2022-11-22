@@ -1,8 +1,14 @@
 td  {
     border: 1px solid;
-
     border-color:pink;
 }
 body{
     background: lightgreen;
+}
+td{
+    border-color: pink;
+
+}
+body{
+    background-color: lightgreen;
 }
