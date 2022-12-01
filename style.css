@@ -1,11 +1,11 @@
-td  {
-    border: 1px solid;
-    
-    border-color: pink ;
-}
- 
+
     body{
         background:green;
-
+}    
+    td  {
+    border: 1px solid;
+    
+    border-color: pink;
 }
+ 
    
